@@ -2,7 +2,7 @@
 title: "CPDZ: A Credibility-Aware and Privacy-Preserving Data Collection Scheme with Zero-Trust in Next-Generation Crowdsensing Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-01-01-cpdz-zero-trust-crowdsensing
+permalink: /publication/2025-01-01-CPDZ-zero-trust
 excerpt: 'A zero-trust and privacy-preserving data collection scheme for next-generation crowdsensing systems.'
 date: 2025-01-01
 venue: 'IEEE Journal on Selected Areas in Communications'
