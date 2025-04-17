@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kejia Fan"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : "Master's student at Central South University, researching mobile crowd sensing and continual learning."
   location         : "China"
   employer         : 
@@ -39,7 +39,7 @@ author:
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : # 58080545800
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
