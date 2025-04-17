@@ -12,8 +12,8 @@ site_theme               : "default"
 title                    : "Kejia Fan"
 title_separator          : "-"
 name                     : &name "Kejia Fan"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+description              : &description "Master's student at Central South University, researching mobile crowd sensing and Generalization of continual learning."
+url                      : https://maimui.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -35,7 +35,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-0236-759X"
   semantic         : # URL
   pubmed           : 
   researchgate     : # URL
