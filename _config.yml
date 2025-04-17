@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kejia Fan"
-  pronouns         : # example: "he/his"  
+  pronouns         : "he/him"  
   bio              : "Master's student at Central South University, researching mobile crowd sensing and Generalization of continual learning."
   location         : "China"
   employer         : 
